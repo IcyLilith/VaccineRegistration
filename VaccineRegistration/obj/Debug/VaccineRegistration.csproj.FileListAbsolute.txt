@@ -1,0 +1,10 @@
+C:\Users\elain\source\repos\VaccineRegistration\VaccineRegistration\bin\Debug\VaccineRegistration.exe.config
+C:\Users\elain\source\repos\VaccineRegistration\VaccineRegistration\bin\Debug\VaccineRegistration.exe
+C:\Users\elain\source\repos\VaccineRegistration\VaccineRegistration\bin\Debug\VaccineRegistration.pdb
+C:\Users\elain\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\VaccineRegistration.csprojAssemblyReference.cache
+C:\Users\elain\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\VaccineRegistration.Form1.resources
+C:\Users\elain\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\VaccineRegistration.Properties.Resources.resources
+C:\Users\elain\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\VaccineRegistration.csproj.GenerateResource.cache
+C:\Users\elain\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\VaccineRegistration.csproj.CoreCompileInputs.cache
+C:\Users\elain\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\VaccineRegistration.exe
+C:\Users\elain\source\repos\VaccineRegistration\VaccineRegistration\obj\Debug\VaccineRegistration.pdb
